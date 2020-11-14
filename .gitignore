@@ -1,0 +1,4 @@
+pkg/
+src/
+lpc55*
+*.log
